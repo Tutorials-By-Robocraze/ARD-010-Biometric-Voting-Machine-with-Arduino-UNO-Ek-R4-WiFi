@@ -22,6 +22,6 @@ Secure the voting process with this Biometric Voting Machine project powered by 
 ---
 
 ## Circuit Diagram
-![Biometric Vote Circuit](./mini-piano-diagram.jpeg)
+![Biometric Vote Circuit](./biometric_vote_circuit_diagram.png)
 
 ---
